@@ -1,0 +1,294 @@
+2023-01-21T22:14:35-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:8
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 8
+
+2023-01-21T22:18:18-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:8
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 8
+
+2023-01-21T22:19:20-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:8
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 8
+
+2023-01-21T22:19:22-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:8
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 8
+
+2023-01-21T22:20:03-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:8
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 8
+
+2023-01-21T22:20:05-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:8
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 8
+
+2023-01-21T22:21:28-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:21:30-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:21:34-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:21:36-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:21:45-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:21:47-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:21:51-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:21:52-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:22:25-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:22:26-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:22:39-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:22:39-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:22:56-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:22:57-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:23:28-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:23:29-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:23:29-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:23:30-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php:14
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include()
+#1 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#2 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#3 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#4 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php on line 14
+
+2023-01-21T22:23:46-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php:57
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/single.php(1): get_header()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php on line 57
+
+2023-01-21T22:23:47-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php:57
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php(3): get_header()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php on line 57
+
+2023-01-21T22:23:50-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php:57
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/single.php(1): get_header()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php on line 57
+
+2023-01-21T22:23:51-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php:57
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php(3): get_header()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php on line 57
+
+2023-01-21T22:24:07-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php:57
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/single.php(1): get_header()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php on line 57
+
+2023-01-21T22:24:11-08:00 CRITICAL Uncaught Error: Call to undefined function IMG() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php:57
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/front-page.php(3): get_header()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-lepoer/header.php on line 57
+

@@ -1,0 +1,9 @@
+ID,Airport Name,City,Country,IATA/FAA,ICAO,Latitude,Longitude,Altitude,Timezone
+2048,Herat,Herat,Afghanistan,HEA,OAHR,34.210017,62.2283,3206,Asia/Kabul
+2049,Jalalabad,Jalalabad,Afghanistan,JAA,OAJL,34.399842,70.498625,1814,Asia/Kabul
+2050,Kabul Intl,Kabul,Afghanistan,KBL,OAKB,34.565853,69.212328,5877,Asia/Kabul
+2051,Kandahar,Kandahar,Afghanistan,KDH,OAKN,31.505756,65.847822,3337,Asia/Kabul
+2052,Maimana,Maimama,Afghanistan,MMZ,OAMN,35.930789,64.760917,2743,Asia/Kabul
+2053,Mazar I Sharif,Mazar-i-sharif,Afghanistan,MZR,OAMS,36.706914,67.209678,1284,Asia/Kabul
+2054,Shindand,Shindand,Afghanistan,,OASD,33.391331,62.260975,3773,Asia/Kabul
+2055,Sheberghan,Sheberghan,Afghanistan,,OASG,36.750783,65.913164,1053,Asia/Kabul

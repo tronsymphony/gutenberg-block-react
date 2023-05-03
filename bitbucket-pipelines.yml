@@ -1,0 +1,25 @@
+# This is an example Starter pipeline configuration
+# Use a skeleton to build, test and deploy using manual and parallel steps
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+
+image: atlassian/default-image:3
+
+pipelines:
+  default:
+    # The following deployment steps will be executed for each pipeline run. To configure your steps and conditionally deploy see https://support.atlassian.com/bitbucket-cloud/docs/configure-bitbucket-pipelinesyml/
+    - step:
+        name: 'Deployment to Staging'
+        deployment: staging
+        script:
+        - pipe: atlassian/rsync-deploy:0.7.1
+          variables:
+            USER: 'machineaccess'
+            SERVER: $PX_SERVER_ADDRESS
+            REMOTE_PATH: '/var/www/${BITBUCKET_REPO_SLUG}/'
+            LOCAL_PATH: '${BITBUCKET_CLONE_DIR}/'
+            SSH_KEY: $PX_SSH_KEY
+            SSH_PORT: $PX_SERVER_PORT
+            DEBUG: 'true'
+            EXTRA_ARGS: '-rltD --no-p --omit-dir-times --exclude-from=./bitbucket-exclude.txt'
+            DELETE_FLAG: 'false'

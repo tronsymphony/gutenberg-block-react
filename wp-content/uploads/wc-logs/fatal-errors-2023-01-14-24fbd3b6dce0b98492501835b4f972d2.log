@@ -1,0 +1,104 @@
+2023-01-14T21:45:58-08:00 CRITICAL Uncaught Error: Call to undefined function thr_permalink() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php:180
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/front-page.php(913): get_footer()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php on line 180
+
+2023-01-14T21:46:00-08:00 CRITICAL Uncaught Error: Call to undefined function thr_permalink() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php:180
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/front-page.php(913): get_footer()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php on line 180
+
+2023-01-14T21:46:05-08:00 CRITICAL Uncaught Error: Call to undefined function thr_permalink() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php:180
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/front-page.php(913): get_footer()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php on line 180
+
+2023-01-14T21:46:06-08:00 CRITICAL Uncaught Error: Call to undefined function thr_permalink() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php:180
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/front-page.php(913): get_footer()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php on line 180
+
+2023-01-14T21:47:03-08:00 CRITICAL Uncaught Error: Call to undefined function thr_permalink() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php:177
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/front-page.php(913): get_footer()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php on line 177
+
+2023-01-14T21:47:05-08:00 CRITICAL Uncaught Error: Call to undefined function thr_permalink() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php:177
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/front-page.php(913): get_footer()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php on line 177
+
+2023-01-14T21:47:44-08:00 CRITICAL Uncaught Error: Call to undefined function thr_permalink() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php:179
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/front-page.php(913): get_footer()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php on line 179
+
+2023-01-14T21:47:45-08:00 CRITICAL Uncaught Error: Call to undefined function thr_permalink() in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php:179
+Stack trace:
+#0 /Users/nandahoyos/Sites/nando/wp-includes/template.php(783): require_once()
+#1 /Users/nandahoyos/Sites/nando/wp-includes/template.php(718): load_template('/Users/nandahoy...', true, Array)
+#2 /Users/nandahoyos/Sites/nando/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/front-page.php(913): get_footer()
+#4 /Users/nandahoyos/Sites/nando/wp-includes/template-loader.php(106): include('/Users/nandahoy...')
+#5 /Users/nandahoyos/Sites/nando/wp-blog-header.php(19): require_once('/Users/nandahoy...')
+#6 /Users/nandahoyos/Sites/nando/index.php(17): require('/Users/nandahoy...')
+#7 /Users/nandahoyos/.composer/vendor/laravel/valet/server.php(234): require('/Users/nandahoy...')
+#8 {main}
+  thrown in /Users/nandahoyos/Sites/nando/wp-content/themes/ui-beautech/footer.php on line 179
+
